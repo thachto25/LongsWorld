@@ -2,13 +2,13 @@ body{background-color: #166573}
 
 
 h1{color:#E1F1F5;
-	font-family: Courier;
+	font-family: Frutiger;
 	font-size:30px;
 	text-align: center;}
 
 
 p{color: #E1F1F5;
-	font-family: Courier;
+	font-family: Frutiger;
 	text-align: left;} 
 
 
@@ -36,7 +36,7 @@ ul li a {display: block;
 	padding: 5px 54px;
 	text-align: center;
 	text-decoration: none;
-	font-family: Courier;
+	font-family: Frutiger;
 	font-size: 14px;
 	margin-left:2px ;
 	margin-right:2px;
