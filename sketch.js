@@ -6,7 +6,7 @@ function setup() {
   createCanvas(1500,800); 
   textAlign(CENTER)
   textStyle(BOLD);
-  textFont('Courier');
+  textFont('Inter');
   strokeWeight(1);
 
 }
